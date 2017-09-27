@@ -4,7 +4,7 @@
 Curso 2017-18  
 Écija (Sevilla)  
 
-![Entornos de desarrollo](img/logo.jpg)
+![Entornos de desarrollo](img/logo.jpeg)
 
 
 ## Contenidos del módulo
